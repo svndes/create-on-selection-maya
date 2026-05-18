@@ -10,7 +10,6 @@ Placement Methods:
 - Edge Length     : Distributes evenly along selected edges by arc length
 - Curve CV        : Places at every CV point on a selected NURBS curve
 - Curve Length    : Distributes evenly along a curve based on actual arc length
-- Curve Parameter : Distributes evenly along a curve based on parameter value
 
 Naming  : Custom naming with # for numbers (1,2,3...) and @ for alphabets (A,B,C...)<br/>
 Division: Controls the number of objects created along edges or curves<br/>
